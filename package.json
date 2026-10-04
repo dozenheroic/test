@@ -1,0 +1,16 @@
+{
+  "name": "order-calculator-tests",
+  "version": "1.0.0",
+  "description": "Практическая работа по модульному тестированию в Node.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
